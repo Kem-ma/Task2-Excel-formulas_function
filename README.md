@@ -31,6 +31,10 @@ To get this, the function MAX was used.
 
 To get this, the funtion IF was used.
 
+## Conclusion
+This task aimed at getting accoustomed to basic Ms excel functions and formulas.
+
+![](
 
 
 
